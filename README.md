@@ -1,22 +1,6 @@
 # Next.js 学习项目
 
-这是一个基于 Next.js v14 的学习项目，我将按照[Next.js 中文教程](https://qufei1993.github.io/nextjs-learn-cn)进行学习，并扩展更多实用功能，通过构建一个全栈 Web 应用（财务 Dashboard）来掌握 Next.js 的核心功能。
-
-## 项目目标
-
-构建一个包含以下功能的财务 Dashboard：
-- 公共首页
-- 使用 Clerk 实现 Google 账号登录
-- 带身份验证的仪表板页面
-- 发票的增删改查功能
-- Stripe 支付集成
-- 多语言支持
-- SEO 优化
-- 数据分析追踪
-- AI 功能集成
-  - OpenAI 文本生成
-  - Replicate 图像生成
-  - Runway 视频生成
+这是一个基于 Next.js v15 的学习项目，我将按照[Next.js 中文教程](https://qufei1993.github.io/nextjs-learn-cn)进行学习，并扩展更多实用功能。
 
 ## 学习计划
 

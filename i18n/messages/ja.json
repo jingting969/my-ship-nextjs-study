@@ -1,0 +1,35 @@
+{
+  "HomePage": {
+    "title": "ようこそ！",
+    "about": "プロフィールページへ"
+  },
+  "about": {
+    "title": "プロフィール",
+    "subtitle": "Next.js 学習者 & 開発者",
+    "greeting": {
+      "title": "👋 こんにちは！",
+      "description": "技術が大好きな開発者です。現在、Next.jsとフルスタック開発を学んでいます。このプロジェクトは、Next.jsチュートリアルに沿って学習過程を記録しています。"
+    },
+    "techStack": {
+      "title": "🛠️ 技術スタック",
+      "items": ["React", "Next.js", "TypeScript", "Tailwind CSS"]
+    },
+    "learningGoals": {
+      "title": "🎯 学習目標",
+      "items": [
+        "Next.jsのコア概念とベストプラクティスの習得",
+        "フルスタック開発スキルの学習",
+        "高性能なWebアプリケーションの構築",
+        "AI機能の統合探求",
+        "国際化の実践"
+      ]
+    },
+    "contact": {
+      "title": "📫 お問い合わせ",
+      "github": {
+        "url": "https://github.com/jingting969",
+        "text": "GitHub"
+      }
+    }
+  }
+} 

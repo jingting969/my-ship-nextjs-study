@@ -1,0 +1,35 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Next.js Learner & Developer",
+    "greeting": {
+      "title": "👋 Hello!",
+      "description": "I'm a tech enthusiast developer, currently learning Next.js and full-stack development. This project documents my learning journey following the Next.js tutorial."
+    },
+    "techStack": {
+      "title": "🛠️ Tech Stack",
+      "items": ["React", "Next.js", "TypeScript", "Tailwind CSS"]
+    },
+    "learningGoals": {
+      "title": "🎯 Learning Goals",
+      "items": [
+        "Master Next.js core concepts and best practices",
+        "Learn full-stack development skills",
+        "Build high-performance web applications",
+        "Explore AI integration",
+        "Practice internationalization"
+      ]
+    },
+    "contact": {
+      "title": "📫 Contact Me",
+      "github": {
+        "url": "https://github.com/jingting969",
+        "text": "GitHub"
+      }
+    }
+  }
+} 
