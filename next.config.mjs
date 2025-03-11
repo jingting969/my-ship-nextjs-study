@@ -4,7 +4,9 @@ const withNextIntl = createNextIntlPlugin();
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
+  images: {
+    domains: ['s.headshots.fun','images.pexels.com'], // 添加你的图片域名
+  },
 };
 
-export default withNextIntl(nextConfig); 
+export default withNextIntl(nextConfig);
